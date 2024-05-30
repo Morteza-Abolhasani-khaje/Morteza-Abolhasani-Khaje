@@ -3,16 +3,7 @@
 <!--
 **Morteza-Abolhasani-khaje/Morteza-Abolhasani-Khaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here are some ideas to 
 -->
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <person:person xmlns:address="http://www.orcid.org/ns/address" xmlns:email="http://www.orcid.org/ns/email" xmlns:history="http://www.orcid.org/ns/history" xmlns:employment="http://www.orcid.org/ns/employment" xmlns:education="http://www.orcid.org/ns/education" xmlns:other-name="http://www.orcid.org/ns/other-name" xmlns:deprecated="http://www.orcid.org/ns/deprecated" xmlns:funding="http://www.orcid.org/ns/funding" xmlns:research-resource="http://www.orcid.org/ns/research-resource" xmlns:service="http://www.orcid.org/ns/service" xmlns:researcher-url="http://www.orcid.org/ns/researcher-url" xmlns:distinction="http://www.orcid.org/ns/distinction" xmlns:internal="http://www.orcid.org/ns/internal" xmlns:membership="http://www.orcid.org/ns/membership" xmlns:person="http://www.orcid.org/ns/person" xmlns:personal-details="http://www.orcid.org/ns/personal-details" xmlns:bulk="http://www.orcid.org/ns/bulk" xmlns:common="http://www.orcid.org/ns/common" xmlns:record="http://www.orcid.org/ns/record" xmlns:keyword="http://www.orcid.org/ns/keyword" xmlns:activities="http://www.orcid.org/ns/activities" xmlns:qualification="http://www.orcid.org/ns/qualification" xmlns:external-identifier="http://www.orcid.org/ns/external-identifier" xmlns:error="http://www.orcid.org/ns/error" xmlns:preferences="http://www.orcid.org/ns/preferences" xmlns:invited-position="http://www.orcid.org/ns/invited-position" xmlns:work="http://www.orcid.org/ns/work" xmlns:peer-review="http://www.orcid.org/ns/peer-review">
@@ -207,52 +198,15 @@ This XML file does not appear to have any style information associated with it. 
 <common:source-orcid>
 <common:uri>https://orcid.org/0009-0005-4851-4005</common:uri>
 <common:path>0009-0005-4851-4005</common:path>
-<common:host>orcid.org</common:host>
-</common:source-orcid>
-<common:source-name>مرتضی ابوالحسنی خواجه Morteza Abolhasani Khajeh</common:source-name>
-</common:source>
-<email:email>mortezaabualhasanikhawaja@gmail.com</email:email>
-</email:email>
-<email:email visibility="private" verified="true" primary="false">
-<common:created-date>2024-04-13T15:09:56.123Z</common:created-date>
-<common:last-modified-date>2024-04-13T15:22:02.204Z</common:last-modified-date>
-<common:source>
-<common:source-orcid>
-<common:uri>https://orcid.org/0009-0005-4851-4005</common:uri>
-<common:path>0009-0005-4851-4005</common:path>
-<common:host>orcid.org</common:host>
-</common:source-orcid>
-<common:source-name>مرتضی ابوالحسنی خواجه Morteza Abolhasani Khajeh</common:source-name>
-</common:source>
-<email:email>abolhasanikhajeh@gmail.com</email:email>
-</email:email>
-</email:emails>
-<address:addresses>
-<address:address put-code="3334620" visibility="public" display-index="1">
-<common:created-date>2024-04-13T17:45:14.453Z</common:created-date>
-<common:last-modified-date>2024-04-13T17:45:14.453Z</common:last-modified-date>
-<common:source>
-<common:source-orcid>
-<common:uri>https://orcid.org/0009-0005-4851-4005</common:uri>
-<common:path>0009-0005-4851-4005</common:path>
-<common:host>orcid.org</common:host>
-</common:source-orcid>
-<common:source-name>مرتضی ابوالحسنی خواجه Morteza Abolhasani Khajeh</common:source-name>
-</common:source>
-<address:country>IR</address:country>
-</address:address>
-</address:addresses>
-<keyword:keywords>
-<keyword:keyword put-code="3844146" visibility="public" display-index="1">
-<common:created-date>2024-04-13T17:44:11.784Z</common:created-date>
-<common:last-modified-date>2024-04-13T17:44:11.784Z</common:last-modified-date>
-<common:source>
-<common:source-orcid>
-<common:uri>https://orcid.org/0009-0005-4851-4005</common:uri>
-<common:path>0009-0005-4851-4005</common:path>
-<common:host>orcid.org</common:host>
-</common:source-orcid>
-<common:source-name>مرتضی ابوالحسنی خواجه Morteza Abolhasani Khajeh</common:source-name>
+
+
+https://github.com/Morteza-Abolhasani-khaje/Morteza-Abolhasani-Khaje/assets/171153205/a9d31a66-491e-4b4c-b894-7e7bcecb620d
+
+![InShot_۲۰۲۴۰۴۲۲_۰۱۱۸۱۵۲۲۲](https://github.com/Morteza-Abolhasani-khaje/Morteza-Abolhasani-Khaje/assets/171153205/30e8cbdf-4b3b-41ce-9394-f6da42a552b7)
+![InShot_۲۰۲۴۰۴۲۱_۲۲۲۹۱۶۱۸۸](https://github.com/Morteza-Abolhasani-khaje/Morteza-Abolhasani-Khaje/assets/171153205/17bd85c9-439a-4b5a-88d9-7302a55969cb)
+![InShot_۲۰۲۴۰۴۲۱_۰۱۱۱۳۰۳۱۴](https://github.com/Morteza-Abolhasani-khaje/Morteza-Abolhasani-Khaje/assets/171153205/34729d29-48c3-4004-98bc-1dba2d96b6f9)
+![InShot_۲۰۲۴۰۴۲۱_۰۱۰۶۲۵۶۰۷](https://github.com/Morteza-Abolhasani-khaje/Morteza-Abolhasani-Khaje/assets/171153205/bfa924c3-fb90-41f0-8ab8-c724aad18444)
+
 </common:source>
 <keyword:content>مرتضی ابوالحسنی خواجه</keyword:content>
 </keyword:keyword>
